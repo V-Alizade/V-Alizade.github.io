@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Unique Chemistry" 
+#title: "Unique Chemistry" 
 author_profile: true
 redirect_from: 
   - /about/
