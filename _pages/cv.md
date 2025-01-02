@@ -5,41 +5,28 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+paperurl: 'http://V.Alizadeh.github.io/files/CV-VA.pdf'
 ---
 
 {% include base_path %}
 
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Chemistry, Mulliken Center for Theoretical Chemistry, University of Bonn, Germany, Nov 2019 -- Oct 2024.
+* M.S. in Physical chemistry, Islamic Azad University of Tabriz, Iran, Sep 2009 -- Feb 2012.
+* B.Sc. in Chemistry, Azarbaijab Shahid Madani University, Iran, Sep 2005 – Aug 2009 
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* bash
+* git
+* Jupyter
+* conda
+* Github
+* C++
 
 Publications
 ======
@@ -59,6 +46,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+# Service and leadership
+# ======
+# * Currently signed in to 43 different slack teams
